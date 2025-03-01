@@ -19,4 +19,16 @@ https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset/
 ```bash
 pip install pandas numpy matplotlib seaborn numpy colorcet
 ```
+# Usage
+```bash
+jupyter notebook DataCuration.ipynb
+```
+```bash
+jupyter notebook EDA.ipynb
+```
 
+# Contributing
+Contributions are welcome! Please fork this repository and submit a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
+
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.
