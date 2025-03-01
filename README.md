@@ -8,11 +8,11 @@ This project focuses on Data Curation and Exploratory Data Analysis (EDA) Using 
 https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset/code
 
 # Library
-**Pandas**
-**Matplotlib**
-**Seaborn**
-**Numpy**
-**Colorcet**
+Pandas
+*Matplotlib
+*Seaborn**
+*Numpy**
+*Colorcet**
 ```bash
 pip install pandas numpy matplotlib seaborn numpy colorcet
 ```
