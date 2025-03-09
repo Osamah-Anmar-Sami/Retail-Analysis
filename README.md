@@ -11,7 +11,7 @@ https://public.tableau.com/views/AnalysisMultipleCountriesRetailData/AnalysisRet
 The dataset represents retail transactional data. It contains information about
 customers, their purchases, products, and transaction details for multiple countries(USA, UK, Canada, Germany, and Australia)
 
-https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset/code
+https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset/data
 
 # Library
 **Pandas** <br/>
