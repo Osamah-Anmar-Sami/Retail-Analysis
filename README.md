@@ -100,7 +100,7 @@ The analysis includes:
 
 Interactive dashboards were developed using Tableau to present analytical findings and explore retail data across multiple countries.
 
-**Dashboard:** [View Interactive Tableau Dashboard](https://public.tableau.com/views/AnalysisMultipleCountriesRetailData/AnalysisRetail?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**Dashboard 2026:** [View Interactive Tableau Dashboard](https://public.tableau.com/views/AnalysisMultipleCountriesRetailData/AnalysisRetail?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 7. Repository Structure
 
