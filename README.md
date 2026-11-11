@@ -1,5 +1,7 @@
 # Retail Data Analysis
 
+This Is My Portfolio Project As A Fellow At Training And Competitions By Correlation One.
+
 ## 1. Overview
 
 This project focuses on **Data Curation and Exploratory Data Analysis (EDA)** using Python and Tableau on retail transactional data for multiple countries.
